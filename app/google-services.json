@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "518482942273",
+    "firebase_url": "https://my-company-ibmaxm.firebaseio.com",
+    "project_id": "my-company-ibmaxm",
+    "storage_bucket": "my-company-ibmaxm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518482942273:android:a588962aa07e9675fea9c0",
+        "android_client_info": {
+          "package_name": "com.example.xconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518482942273-rn4545bjobr7su4plv1af0olc6bhr16f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.xconnect",
+            "certificate_hash": "4b5d4b0e21ff325be7701db0e9373eb166fb04b1"
+          }
+        },
+        {
+          "client_id": "518482942273-0vc77mc8f49kprhtbckaaoltivbk8tts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtVB3S3igXzolkN7XmZZf5Z8k9-O0oHD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518482942273-0vc77mc8f49kprhtbckaaoltivbk8tts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
